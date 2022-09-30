@@ -1,0 +1,2 @@
+# static
+VARIABLES Y METODOS STATIC
